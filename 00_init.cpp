@@ -1,3 +1,4 @@
+/* 00_init */
 #include<iostream>
 using namespace std;
 
